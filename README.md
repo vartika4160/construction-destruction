@@ -234,14 +234,14 @@ In the main function:
 9.Finally, return 0 to end the program.
 
 ### **OUTPUT**
-1.(https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/768c644e-6e83-4f67-9936-1e2f175999d0)
+1.![exp12_7](https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/768c644e-6e83-4f67-9936-1e2f175999d0)
 
-2.(https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/dbdbcd0e-2ae8-4879-81c9-1b7b79f339d8)
+2.![exp12_1](https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/dbdbcd0e-2ae8-4879-81c9-1b7b79f339d8)
 
-3.(https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/62a5b600-eb84-4caa-b496-00bd7b0be62a)
+3.![exp12_2](https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/62a5b600-eb84-4caa-b496-00bd7b0be62a)
 
-4.(https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/606513b4-5c95-4a5a-b258-e17d68505422)
+4.![exp12_3](https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/606513b4-5c95-4a5a-b258-e17d68505422)
 
-5.(https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/61d1d3fd-62ea-4d8c-bdc6-a771080e848a)
+5.![exp12_4](https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/61d1d3fd-62ea-4d8c-bdc6-a771080e848a)
 
-6.(https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/a72c6fd6-8166-49bd-bd21-350a1e75f335)# construction-destruction
+6.![exp12_5](https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/a72c6fd6-8166-49bd-bd21-350a1e75f335)
